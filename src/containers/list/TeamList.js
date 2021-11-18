@@ -56,9 +56,13 @@ function TeamList() {
       4301104209,
       "NaN",
     ),
-    createData("Eclair", 262, 16.0),
-    createData("Cupcake", 305, 3.7),
-    createData("Gingerbread", 356, 16.0),
+    createData("Trần Thanh Hiền", "NaN", "NaN"),
+    createData(
+      "Cao Thị Thanh Trâm",
+      "NaN",
+      "NaN",
+    ),
+    createData("Tiêu Hoàng Tuấn", "NaN", "NaN"),
   ];
   return (
     <>
